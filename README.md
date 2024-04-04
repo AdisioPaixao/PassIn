@@ -1,4 +1,4 @@
-## Pass.in (<NLW/> Unide)
+## Pass.in - NLW Unite
 É um sistema back-end de check-in para eventos presenciais onde o organizador consegue fazer o controle e gerenciar a lista de participantes e cada pessoa, gerar sua credencial de acesso ao evento.
 
 ## Dependências do projeto (PackageReference):
